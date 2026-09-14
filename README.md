@@ -3,9 +3,13 @@
 # ✨ لوکسری | Luxery
 ### 🖤 Luxury 3D E-Commerce Frontend
 
-**یک تجربه خرید لوکس و مدرن**  
+**یک تجربه خرید لوکس، مدرن و سینمایی**  
 **A cinematic, modern & premium shopping experience**
 
+### 🌐 Live Demo
+### [🚀 مشاهده آنلاین سایت | View Live Site](https://luxury-frontend-mocha.vercel.app/)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://luxury-frontend-mocha.vercel.app/)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
@@ -26,6 +30,9 @@
 
 > 🎯 مناسب ارائه به کارفرما، نمایش نمونه کار و پیش‌نمایش ظاهر برند
 
+### 🔗 دموی زنده
+👉 [https://luxury-frontend-mocha.vercel.app/](https://luxury-frontend-mocha.vercel.app/)
+
 ---
 
 ## 🇬🇧 English Overview
@@ -36,6 +43,9 @@ It combines dark luxury aesthetics, smooth motion, 3D interaction, and a clean s
 to create more than a store — a branded digital experience.
 
 > 🎯 Perfect for client demos, portfolio presentation, and UI/UX showcase
+
+### 🔗 Live Demo
+👉 [https://luxury-frontend-mocha.vercel.app/](https://luxury-frontend-mocha.vercel.app/)
 
 ---
 
@@ -76,14 +86,15 @@ to create more than a store — a branded digital experience.
 | 3D | **Three.js / React Three Fiber / Drei** |
 | State | **Zustand** |
 | Icons | **Lucide React** |
+| Deploy | **Vercel** |
 
 ---
 
-## 🚀 اجرا | Getting Started
+## 🚀 اجرا روی سیستم خودتان | Run Locally
 
 ```bash
-# نصب پکیج‌ها
+# نصب پکیج‌ها | Install dependencies
 npm install
 
-# اجرای نسخه توسعه
+# اجرای نسخه توسعه | Start dev server
 npm run dev
