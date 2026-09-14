@@ -1,50 +1,89 @@
-# لوکسری | Luxury 3D E-Commerce Frontend
+<div align="center">
 
-> یک تجربه خرید آنلاین لوکس، مدرن و سینمایی — طراحی‌شده برای برندهایی که فقط «فروش» نمی‌خواهند، بلکه **حس خاص بودن** می‌فروشند.
+# ✨ لوکسری | Luxery
+### 🖤 Luxury 3D E-Commerce Frontend
 
----
+**یک تجربه خرید لوکس، مدرن و سینمایی**  
+**A cinematic, modern & premium shopping experience**
 
-## درباره پروژه
+[![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
+[![Three.js](https://img.shields.io/badge/Three.js-3D-000000?style=for-the-badge&logo=three.js)](https://threejs.org/)
 
-**لوکسری** فرانت‌اند یک فروشگاه اینترنتی پریمیوم است که با تمرکز روی طراحی بصری، انیمیشن، تجربه کاربری و حس لوکس ساخته شده.
-
-این نسخه، پیش‌نمایش لایه Frontend پروژه است؛ جایی که هویت بصری برند، مسیر خرید کاربر و جزئیات رابط کاربری به‌صورت کامل پیاده‌سازی شده‌اند.
-
-از صفحه اصلی سه‌بعدی تا کارت محصولات، سبد خرید، علاقه‌مندی‌ها و پنل مدیریت — همه چیز با رویکرد محصول واقعی و قابل ارائه طراحی شده است.
-
----
-
-## ویژگی‌های برجسته
-
-- طراحی Dark Luxury با حس شیشه‌ای (Glassmorphism)
-- هیرو سه‌بعدی تعاملی در صفحه اصلی
-- انیمیشن‌های نرم و حرفه‌ای در هاور، ترنزیشن و بخش‌ها
-- ساختار کاملاً ریسپانسیو برای موبایل، تبلت و دسکتاپ
-- دسته‌بندی‌های لوکس: آقایان، خانم‌ها، بچه‌گانه، ساعت، عطر و اکسسوری
-- صفحه محصول، سبد خرید و فرآیند تسویه‌حساب
-- سیستم علاقه‌مندی‌ها
-- پنل ادمین برای مدیریت محتوا
-- پشتیبانی از تم روشن / تاریک
-- تایپوگرافی فارسی و چیدمان RTL
+</div>
 
 ---
 
-## استک فنی
+## 🇮🇷 معرفی فارسی
 
-| لایه | تکنولوژی |
-|------|----------|
-| Framework | Next.js 14 (App Router) |
-| Language | TypeScript |
-| Styling | Tailwind CSS |
-| Animation | Framer Motion |
-| 3D | Three.js / React Three Fiber / Drei |
-| State | Zustand |
-| Icons | Lucide React |
+**لوکسری** فرانت‌اند یک فروشگاه اینترنتی پریمیوم است؛  
+جایی که طراحی فقط زیبا نیست، بلکه حس لوکس بودن را از لحظه ورود منتقل می‌کند.
+
+از هیرو سه‌بعدی و انیمیشن‌های نرم گرفته تا کارت محصولات، سبد خرید و پنل مدیریت،  
+همه چیز با نگاه محصول واقعی و ارائه حرفه‌ای ساخته شده است.
+
+> 🎯 مناسب ارائه به کارفرما، نمایش نمونه کار و پیش‌نمایش ظاهر برند
 
 ---
 
-## اجرای پروژه
+## 🇬🇧 English Overview
+
+**Luxery** is a premium e-commerce frontend built to feel exclusive, modern, and cinematic.
+
+It combines dark luxury aesthetics, smooth motion, 3D interaction, and a clean shopping flow  
+to create more than a store — a branded digital experience.
+
+> 🎯 Perfect for client demos, portfolio presentation, and UI/UX showcase
+
+---
+
+## 🌟 ویژگی‌ها | Highlights
+
+### 🇮🇷 فارسی
+- 🖤 طراحی Dark Luxury با افکت شیشه‌ای
+- 🌀 هیرو سه‌بعدی تعاملی
+- ✨ انیمیشن‌های نرم با Framer Motion
+- 📱 کاملاً ریسپانسیو (موبایل، تبلت، دسکتاپ)
+- 🛍️ مسیر کامل خرید: محصول → سبد → تسویه
+- 💛 سیستم علاقه‌مندی‌ها
+- 🧑‍💼 پنل ادمین
+- 🌙 پشتیبانی Dark / Light Mode
+- 🇮🇷 تایپوگرافی فارسی و RTL
+
+### 🇬🇧 English
+- 🖤 Dark luxury UI with glassmorphism
+- 🌀 Interactive 3D hero section
+- ✨ Smooth Framer Motion animations
+- 📱 Fully responsive layout
+- 🛍️ Complete shopping flow
+- 💛 Wishlist system
+- 🧑‍💼 Admin panel
+- 🌙 Dark / Light mode support
+- 🇮🇷 Persian RTL experience
+
+---
+
+## 🛠️ استک فنی | Tech Stack
+
+| 🔹 Layer | 🚀 Technology |
+|---------|----------------|
+| Framework | **Next.js 14 (App Router)** |
+| Language | **TypeScript** |
+| Styling | **Tailwind CSS** |
+| Animation | **Framer Motion** |
+| 3D | **Three.js / React Three Fiber / Drei** |
+| State | **Zustand** |
+| Icons | **Lucide React** |
+
+---
+
+## 🚀 اجرا | Getting Started
 
 ```bash
+# نصب پکیج‌ها
 npm install
+
+# اجرای نسخه توسعه
 npm run dev
