@@ -3,7 +3,7 @@
 # ✨ لوکسری | Luxery
 ### 🖤 Luxury 3D E-Commerce Frontend
 
-**یک تجربه خرید لوکس، مدرن و سینمایی**  
+**یک تجربه خرید لوکس و مدرن**  
 **A cinematic, modern & premium shopping experience**
 
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
